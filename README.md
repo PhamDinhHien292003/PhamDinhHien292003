@@ -1,16 +1,68 @@
-## Hi there 👋
+# Pham Dinh Hien
 
-<!--
-**PhamDinhHien292003/PhamDinhHien292003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Information
+
+* **Phone:** 0989159700
+* **Email:** phoebe292003@gmail.com
+* **GitHub:** [github.com/PhamDinhHien292003](github.com/PhamDinhHien292003)
+* **Location:** Thanh Tri District, Hanoi City
+* **LeetCode:** [leetcode.com/u/KdCzPFMom0/](leetcode.com/u/KdCzPFMom0/)
+
+
+## Career Goals
+
+Aspiring Backend Developer
+
+
+## Skills
+
+### Programming Languages
+
+* Java
+* C#
+* HTML
+* CSS
+* JavaScript
+
+### Databases
+
+* MySQL
+* Firebase
+
+### API
+
+* RESTful API
+
+### Frameworks
+
+* Spring
+* Hibernate
+* Bootstrap
+* JQuery
+* Thymeleaf
+
+### Tools
+
+* Postman
+* IntelliJ IDEA
+* Git
+* GitHub
+
+### Other Skills
+
+* Design Patterns
+* Performance Optimization
+* Research
+* Basic English Documentation Reading
+
+
+---
+
+
+
+* **Projects:**  
+* **Education:** University of Economics - Technology for Industries
+* **Experience:** 
