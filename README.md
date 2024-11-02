@@ -9,7 +9,7 @@ Backend Developer
 * **Email:** phoebe292003@gmail.com
 * **GitHub:** [github.com/PhamDinhHien292003](github.com/PhamDinhHien292003)
 * **Location:** Thanh Tri District, Hanoi City
-* **LeetCode:** [leetcode.com/u/KdCzPFMom0/](leetcode.com/u/KdCzPFMom0/)
+* **LeetCode:** https://leetcode.com/u/KdCzPFMom0/
 
 
 ## Career Goals
