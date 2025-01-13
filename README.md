@@ -7,7 +7,6 @@ Backend Developer
 
 * **Phone:** 0989159700
 * **Email:** phoebe292003@gmail.com
-* **GitHub:** [github.com/PhamDinhHien292003](github.com/PhamDinhHien292003)
 * **Location:** Thanh Tri District, Hanoi City
 * **LeetCode:** https://leetcode.com/u/KdCzPFMom0/
 
